@@ -1,6 +1,6 @@
 ##Blur Faces
 
-This project detects faces and blur faces on what image you want. You can choose a file or folder to process it. In this project, you can process images which has jpg extension. It detects faces on every images but if you want to blur faces you should press the 'b' key of your keyboard. If you need any help about the system, you should press the 'h' key of your keyboard. Also it saves the blurred images with png extension to your computer too. If you make your operations with a folder, you can use 'left and right arrow' keys of the keyboard to change the image.
+This project detects faces and blur faces on what image you want. You can choose a file or folder to process it. In this project, you can process images which has jpg extension. It detects faces on every images but if you want to blur faces you should press the 'b' key of your keyboard. If you need any help about the system, you should press the 'h' key of your keyboard. Also it saves the blurred images with png extension to your computer too. If you make your operations with a folder, you can use 'left and right arrow' keys of the keyboard to change the image. If you want to quit the program, you should press the 'q' key of your keyboard.
 
 For execute the project, you should install some of the python packages. These are:
 
